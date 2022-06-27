@@ -73,10 +73,10 @@ for i,j in enumerate(np.unique(y_Set)):
   ```
   
 ## Output:
-!(<img width="401" alt="0" src="https://user-images.githubusercontent.com/95160497/175863789-2df59ba6-6bff-442e-8c61-87900b1befeb.png">
+<img width="401" alt="0" src="https://user-images.githubusercontent.com/95160497/175863789-2df59ba6-6bff-442e-8c61-87900b1befeb.png">
 
 
-!t(<img width="395" alt="1" src="https://user-images.githubusercontent.com/95160497/175863670-126fdfd6-e9dd-47c8-a2d7-a62ef16ff80e.png">
+<img width="395" alt="1" src="https://user-images.githubusercontent.com/95160497/175863670-126fdfd6-e9dd-47c8-a2d7-a62ef16ff80e.png">
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
