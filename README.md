@@ -25,6 +25,8 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: A K MOHAN RAJ 
 RegisterNumber:  212221230064
 */
+
+```
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -67,6 +69,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.ylabel('Estimated Salary')
   plt.legend()
   plt.show()
+  
   ```
   
 ## Output:
